@@ -2,8 +2,6 @@
 
 Hechos con amor y cariño
 
-------------
-
 ## Primer Ejercicio
 
 Escriba un ciclo que haga siete llamadas a console.log para generar el siguiente triángulo: - ingresar resultado del código -

@@ -2,8 +2,6 @@
 
 Hechos con amor y cariño
 
-------------
-
 ## Primer Ejercicio
 
 Escribe una función min que tome dos argumentos y retorne su mínimo.
